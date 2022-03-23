@@ -19,4 +19,4 @@ Diagrama de Classes, cenário 2
 
 Diagrama de Classes, cenário 3
 
-![Diagrama 3](https://user-images.githubusercontent.com/48683263/159760970-01f37074-427d-4d58-be1a-48bd4b7cc919.jpeg)
+![Diagrama 3](https://user-images.githubusercontent.com/48683263/159762604-eeaf9898-30d2-4c67-a1d9-f3f1e755d956.jpeg)
